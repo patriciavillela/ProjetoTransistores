@@ -12,25 +12,11 @@ Se você é uma pessoa especialista em outra área, desenvolva um projeto como e
 
 Se você possue uma empresa, ou faz parte do departamento de RH de uma empresa, desenvolva políticas de inclusão na sua empresa. Isso pode fazer a diferença para a inclusão dessa comunidade marginalizada.
 
-<!-- modify this form HTML and place wherever you want your form -->
-
-<form
-  action="https://formspree.io/mrgydjjw"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
+  <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+  <script>
+    window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+    formbutton("create", {action: "https://formspree.io/mrgydjjw"})
+  </script>
 
 [http://especiais.correiobraziliense.com.br/transexuais-sao-excluidos-do-mercado-de-trabalho](http://especiais.correiobraziliense.com.br/transexuais-sao-excluidos-do-mercado-de-trabalho)
 [https://www1.folha.uol.com.br/mercado/2020/01/emprego-formal-ainda-e-excecao-entre-pessoas-trans.shtml](https://www1.folha.uol.com.br/mercado/2020/01/emprego-formal-ainda-e-excecao-entre-pessoas-trans.shtml)
