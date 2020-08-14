@@ -17,7 +17,8 @@ Se você possue uma empresa, ou faz parte do departamento de RH de uma empresa, 
     window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
     formbutton("create", {action: "https://formspree.io/mrgydjjw"})
   </script>
-
+  
+## Fontes
 [http://especiais.correiobraziliense.com.br/transexuais-sao-excluidos-do-mercado-de-trabalho](http://especiais.correiobraziliense.com.br/transexuais-sao-excluidos-do-mercado-de-trabalho)
 [https://www1.folha.uol.com.br/mercado/2020/01/emprego-formal-ainda-e-excecao-entre-pessoas-trans.shtml](https://www1.folha.uol.com.br/mercado/2020/01/emprego-formal-ainda-e-excecao-entre-pessoas-trans.shtml)
 [https://arte.estadao.com.br/focas/capitu/materia/no-ensino-superior-o-espelho-da-exclusao-de-pessoas-trans](https://arte.estadao.com.br/focas/capitu/materia/no-ensino-superior-o-espelho-da-exclusao-de-pessoas-trans)
