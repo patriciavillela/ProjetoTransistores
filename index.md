@@ -6,7 +6,9 @@ A população transsexual é excluída do mercado de trabalho e das universidade
 
 A ideia desse projeto é capacitar tecnicamente a população transsexual, afastada das universidades, para preencher o mercado de trabalho de tecnologia da informação, que é minha área.
 
-Se você é uma pessoa trans que se interessa por informática e deseja se capacitar em desenvolvimento de aplicações web, preencha o formulário abaixo. Esse projeto é e sempre será gratuito.
+Se você é uma pessoa trans que se interessa por informática e deseja se capacitar em desenvolvimento de aplicações web, me envie uma mensagem clicando no botão vermelho no canto inferior direito da página.
+
+(Obs.: Esse curso é e sempre será completamente gratuito.)
 
 Se você é uma pessoa especialista em outra área, desenvolva um projeto como esse. As pessoas trans são tão capazes quanto as pessoas cis, mas essas pessoas não encontram aberturas para ingressar. Faça parte dessa iniciativa e torne-se você, também, uma porta para essa mudança.
 
