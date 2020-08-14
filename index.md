@@ -1,7 +1,5 @@
 ### Bem-vindo ao Projeto Transístores
 
-Bem-vindo à página oficial do Projeto Transístores.
-
 A população transsexual é excluída do mercado de trabalho e das universidades. Poucas empresas possuem políticas de inclusão, mas mesmo essas tem dificuldade em encontrar profissionais capacitados.
 
 A ideia desse projeto é capacitar tecnicamente a população transsexual, afastada das universidades, para preencher o mercado de trabalho de tecnologia da informação, que é minha área.
