@@ -26,7 +26,7 @@ As tecnologias usadas serão:
 ### Quanto?
 Quanto tempo? A princípio, 5 meses. Poderá se alterar conforme necessidade.
 
-Quanto custa? Nada. Esse projeto é realizado de forma completamente voluntária e não terá custo algum para o participante (exceto os necessários para acompanhá-lo, como um computador e conexão à Internet.
+Quanto custa? Nada. Esse projeto é realizado de forma completamente voluntária e não terá custo algum para o participante (exceto os necessários para acompanhá-lo, como um computador e conexão à Internet).
 
 Quantas pessoas? Até 10 por turma, podendo ser expandido se eu perceber que dou conta.
 
