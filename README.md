@@ -1,2 +1,2 @@
 # ProjetoTransistores
-Repositório para armazenar o conteúdo do grupo Transistores
+Projeto focado em capacitar pessoas trans para o mercado de trabalhi em tecnologia da informação.
