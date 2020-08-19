@@ -31,7 +31,7 @@ Quanto custa? Nada. Esse projeto é realizado de forma completamente voluntária
 Quantas pessoas? Até 10 por turma, podendo ser expandido se eu perceber que dou conta.
 
 ### Quando?
-A primeira turma começará agora em setembro de 2020. Novas turmas serão abertas para fevereiro de 2021 e agosto de 2021.
+A primeira turma começará agora em setembro de 2020 e está com vagas se esgotando. Novas turmas serão abertas para fevereiro de 2021 e agosto de 2021.
 
 ### Quem?
 Se você é uma pessoa trans que se interessa por informática e deseja se capacitar em desenvolvimento de aplicações web, me envie uma mensagem clicando no botão vermelho no canto inferior direito da página.
